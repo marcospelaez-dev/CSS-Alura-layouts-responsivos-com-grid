@@ -5,6 +5,8 @@
 
 Página inicial da loja UseDev.
 
+Aluno: Marcos Pelaez.
+
 ## 🔨 Funcionalidades do projeto
 
 A página mostrará um menu de navegação no cabeçalho, um banner de divulgação, lista de categorias e produtos, assim como uma seção de cadastro para a newsletter e um rodapé com links relacionados a aplicação.
